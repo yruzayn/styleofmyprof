@@ -2,7 +2,7 @@
 <h3 align="center"><em>Learning JavaScript</em></h3>
 <div align="center">
     <img
-        src="[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=A+new+programmer;Trying+to+learn+Node+and+React+JS;Always+seeks+new+and+latest+things)](https://git.io/typing-svg)"
+        src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=A+new+programmer;Trying+to+learn+Node+and+React+JS;Always+seeks+new+and+latest+things"
         alt="A new programmer, learning node and react js, always seeks new and latest things"
     />
 </div>
