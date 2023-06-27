@@ -27,19 +27,11 @@
 <br />
 <br />
 <h3 align="center">~ :bust_in_silhouette: 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮 :bust_in_silhouette: ~</h3>
-<p align="center">:telescope: I’m currently working as web full stack developer</p>
 <p align="center">
-    :seedling: I’m currently learning Flutter, Java, Android and CSS-in-JS
+    :seedling: I’m currently learning React, Node, C++
 </p>
 <p align="center">
     :dancers: I’m looking to collaborate on interesting open source projects
-</p>
-<p align="center">
-    :earth_africa: I live in South Korea, so it might take some time to respond
-    ;P
-</p>
-<p align="center">
-    :speech_balloon: Ask me about backend development, Linux and Rust
 </p>
 <p align="center">:mailbox: How to reach me: see below contact informations</p>
 <p align="center">:zap: Fun fact: I use Arch Linux btw!</p>
@@ -56,40 +48,6 @@
         alt="NestJS"
     />
     <img
-        src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"
-        alt="JWT"
-    />
-    <img
-        src="https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454"
-        alt="Pug"
-    />
-    <img
-        src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101"
-        alt="Socket.io"
-    />
-    <br />
-    <img
-        src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"
-        alt="Prisma"
-    />
-    <img
-        src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white"
-        alt="Sequelize"
-    />
-    <img
-        src="https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql"
-        alt="Apollo-GraphQL"
-    />
-    <img
-        src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white"
-        alt="Electron.js"
-    />
-    <img
-        src="https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF"
-        alt="Tauri"
-    />
-    <br />
-    <img
         src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"
         alt="NodeJS"
     />
@@ -98,54 +56,8 @@
         alt="Deno JS"
     />
     <img
-        src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white"
-        alt="NPM"
-    />
-    <img
-        src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white"
-        alt="Yarn"
-    />
-    <br />
-    <img
         src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"
         alt="React"
-    />
-    <img
-        src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"
-        alt="Redux"
-    />
-    <img
-        src="https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white"
-        alt="Svelte"
-    />
-    <img
-        src="https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white"
-        alt="Less"
-    />
-    <img
-        src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"
-        alt="SASS"
-    />
-    <br />
-    <img
-        src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white"
-        alt="ESLint"
-    />
-    <img
-        src="https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black"
-        alt="Babel"
-    />
-    <img
-        src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black"
-        alt="Webpack"
-    />
-    <img
-        src="https://img.shields.io/badge/RollupJS-ef3335?style=for-the-badge&logo=rollup.js&logoColor=white"
-        alt="RollupJS"
-    />
-    <img
-        src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"
-        alt="Vite"
     />
 </div>
 <br />
