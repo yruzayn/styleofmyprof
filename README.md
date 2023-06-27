@@ -12,7 +12,7 @@
         <!-- prettier-ignore-attribute -->
         <source
             media="(prefers-color-scheme: dark)"
-            srcset="https://github-readme-stats-abiriadev.vercel.app/api?username=abiriadev&title_color=9e76df&text_color=b6c1ce&icon_color=ac89e3&bg_color=00000000&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&custom_title=Abiria%27s%20GitHub%20stats%20%3E%E3%85%82%3C&card_width=400"
+            srcset="https://github-readme-stats-Zaynfim.vercel.app/api?username=Zaynfim&title_color=9e76df&text_color=b6c1ce&icon_color=ac89e3&bg_color=00000000&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&custom_title=Zaynfim%27s%20GitHub%20stats%20%3E%E3%85%82%3C&card_width=400"
         />
         <!-- prettier-ignore-attribute -->
         <source
