@@ -17,29 +17,29 @@
         <!-- prettier-ignore-attribute -->
         <source
             media="(prefers-color-scheme: light)"
-            srcset="https://github-readme-stats-abiriadev.vercel.app/api?username=abiriadev&title_color=9062da&icon_color=9e76df&bg_color=00000000&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&custom_title=Abiria%27s%20GitHub%20stats%20%3E%E3%85%82%3C&card_width=400"
+            srcset="https://github-readme-stats-Zaynfim.vercel.app/api?username=Zaynfim&title_color=9062da&icon_color=9e76df&bg_color=00000000&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&custom_title=Abiria%27s%20GitHub%20stats%20%3E%E3%85%82%3C&card_width=400"
         />
         <!-- prettier-ignore-attribute -->
         <img
             alt="Abiria's GitHub stats >ㅂ<"
-            src="https://github-readme-stats-abiriadev.vercel.app/api?username=abiriadev&title_color=9062da&icon_color=9e76df&bg_color=00000000&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&custom_title=Abiria%27s%20GitHub%20stats%20%3E%E3%85%82%3C&card_width=400"
+            src="https://github-readme-stats-Zaynfim.vercel.app/api?username=Zaynfim&title_color=9062da&icon_color=9e76df&bg_color=00000000&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&custom_title=Abiria%27s%20GitHub%20stats%20%3E%E3%85%82%3C&card_width=400"
         />
     </picture>
     <picture>
         <!-- prettier-ignore-attribute -->
         <source
             media="(prefers-color-scheme: dark)"
-            srcset="https://github-readme-stats-abiriadev.vercel.app/api/top-langs/?username=abiriadev&title_color=9e76df&text_color=b6c1ce&icon_color=ac89e3&bg_color=00000000&hide_border=true&langs_count=10&layout=compact"
+            srcset="https://github-readme-stats-Zaynfim.vercel.app/api/top-langs/?username=Zaynfim&title_color=9e76df&text_color=b6c1ce&icon_color=ac89e3&bg_color=00000000&hide_border=true&langs_count=10&layout=compact"
         />
         <!-- prettier-ignore-attribute -->
         <source
             media="(prefers-color-scheme: light)"
-            srcset="https://github-readme-stats-abiriadev.vercel.app/api/top-langs/?username=abiriadev&title_color=9062da&icon_color=9e76df&bg_color=00000000&hide_border=true&langs_count=10&layout=compact"
+            srcset="https://github-readme-stats-Zaynfim.vercel.app/api/top-langs/?username=Zaynfim&title_color=9062da&icon_color=9e76df&bg_color=00000000&hide_border=true&langs_count=10&layout=compact"
         />
         <!-- prettier-ignore-attribute -->
         <img
             alt="Most Used Languages"
-            src="https://github-readme-stats-abiriadev.vercel.app/api/top-langs/?username=abiriadev&title_color=9062da&icon_color=9e76df&bg_color=00000000&hide_border=true&langs_count=10&layout=compact"
+            src="https://github-readme-stats-Zaynfim.vercel.app/api/top-langs/?username=Zaynfim&title_color=9062da&icon_color=9e76df&bg_color=00000000&hide_border=true&langs_count=10&layout=compact"
         />
     </picture>
     <a href="https://wakatime.com/@Abiria">
@@ -47,24 +47,24 @@
             <!-- prettier-ignore-attribute -->
             <source
                 media="(prefers-color-scheme: dark)"
-                srcset="https://github-readme-stats-abiriadev.vercel.app/api/wakatime/?username=Abiria&range=all_time&title_color=9e76df&text_color=b6c1ce&bg_color=00000000&hide_border=true&langs_count=20&layout=compact&hide=other"
+                srcset="https://github-readme-stats-Zaynfim.vercel.app/api/wakatime/?username=Abiria&range=all_time&title_color=9e76df&text_color=b6c1ce&bg_color=00000000&hide_border=true&langs_count=20&layout=compact&hide=other"
             />
             <!-- prettier-ignore-attribute -->
             <source
                 media="(prefers-color-scheme: light)"
-                srcset="https://github-readme-stats-abiriadev.vercel.app/api/wakatime/?username=Abiria&range=all_time&title_color=9062da&bg_color=00000000&hide_border=true&langs_count=20&layout=compact&hide=other"
+                srcset="https://github-readme-stats-Zaynfim.vercel.app/api/wakatime/?username=Abiria&range=all_time&title_color=9062da&bg_color=00000000&hide_border=true&langs_count=20&layout=compact&hide=other"
             />
             <!-- prettier-ignore-attribute -->
             <img
                 alt="Wakatime stats"
-                src="https://github-readme-stats-abiriadev.vercel.app/api/wakatime/?username=Abiria&range=all_time&title_color=9062da&bg_color=00000000&hide_border=true&langs_count=20&layout=compact&hide=other"
+                src="https://github-readme-stats-Zaynfim.vercel.app/api/wakatime/?username=Abiria&range=all_time&title_color=9062da&bg_color=00000000&hide_border=true&langs_count=20&layout=compact&hide=other"
             />
         </picture>
     </a>
     <br>
     <br>
-    <a href="https://solved.ac/profile/abiriadev">
-        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=abiriadev" alt="solved.ac tier">
+    <a href="https://solved.ac/profile/Zaynfim">
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=Zaynfim" alt="solved.ac tier">
     </a>
 </div>
 <br />
@@ -517,7 +517,7 @@
             width="48"
         />
     </a>
-    <a href="https://codepen.io/abiriadev" target="blank">
+    <a href="https://codepen.io/Zaynfim" target="blank">
         <img
             align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"
@@ -556,7 +556,7 @@
             width="48"
         />
     </a>
-    <a href="https://open.kakao.com/me/abiriadev" target="blank">
+    <a href="https://open.kakao.com/me/Zaynfim" target="blank">
         <img
             align="center"
             src="https://t1.kakaocdn.net/kakaocorp/kakaocorp/admin/service/453a624d017900001.png"
@@ -604,7 +604,7 @@
             width="48"
         />
     </a>
-    <a href="https://www.reddit.com/user/Abiriadev" target="blank">
+    <a href="https://www.reddit.com/user/Zaynfim" target="blank">
         <img
             align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg"
@@ -661,7 +661,7 @@
 <br />
 <div align="center">
     <img
-        src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fabiriadev&count_bg=%239E76DF&title_bg=%23444444&icon=github.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=true"
+        src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FZaynfim&count_bg=%239E76DF&title_bg=%23444444&icon=github.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=true"
         alt="views"
     />
 </div>
